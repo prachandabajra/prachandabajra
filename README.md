@@ -21,7 +21,6 @@ Mobile Application Developer
 
 *   🌍  I'm based in Kathmandu, Nepal
 *   ✉️  You can contact me at [https://www.linkedin.com/in/prachanda-muni-bajracharya-18753a143/](mailto:https://www.linkedin.com/in/prachanda-muni-bajracharya-18753a143/)
-*   🚀  I'm currently working on [ONEOS](http://oneos.com/)
 *   🧠  I'm learning Node.js (Backend development)
 
 ###  Skills 
